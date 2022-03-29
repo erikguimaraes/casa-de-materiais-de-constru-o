@@ -1,2 +1,2 @@
-# casa-de-materiais-de-constru-o
+# casa-de-materiais-de-construção
 um trabalho de Érik Guimarães 
